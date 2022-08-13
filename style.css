@@ -1,0 +1,22 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top ,  #f51d8e,#f51dc9 ,#f01df5, #c31df5, #6c1df5);
+
+}
+#textbox
+{
+    width:300px
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
